@@ -1,2 +1,2 @@
 ### 前端个人博客
-前端Blog
+-[浅谈ES6的promise对象](https://github.com/YuanwuHu/blog/issues/1)

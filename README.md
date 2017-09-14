@@ -1,6 +1,7 @@
 
 ### 前端个人博客
 - [浅谈ES6的promise对象](https://github.com/YuanwuHu/blog/issues/1)
+- [javascript中this的详解](https://github.com/YuanwuHu/blog/issues/2)
 ### 选择github的原因
 1. 技术交流与分享
 2. 分析、总结和记录项目中遇到的问题，并提出最佳的解决方案
